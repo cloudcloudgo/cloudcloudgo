@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Cloud and Kubernetes
 - 📫 Reach me at amit.prakashsingh@gmail.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I love power of "Hello World!"
+- ⚡ Fun fact: I love the power of "Hello World!"
 
 <!---
 cloudcloudgo/cloudcloudgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
